@@ -1,0 +1,14 @@
+D:\USTM\WebAvancado\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.deps.json
+D:\USTM\WebAvancado\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.runtimeconfig.json
+D:\USTM\WebAvancado\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.dll
+D:\USTM\WebAvancado\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.pdb
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.csproj.AssemblyReference.cache
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfoInputs.cache
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfo.cs
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.dll
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\refint\Hospital.Repositories.dll
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.pdb
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.genruntimeconfig.cache
+D:\USTM\WebAvancado\Hospital.Repositories\obj\Debug\net6.0\ref\Hospital.Repositories.dll
